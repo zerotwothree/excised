@@ -1,18 +1,12 @@
 Main(){
 print "hello world"
 }
-
 method(){
 print "my name"
-}ddfdfddfsdsdfdffddddfafdafdfassf
-
+}
 dsfds
-
-
 11111
 2222
-
 444
-
-
+555
 666
